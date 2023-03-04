@@ -1,0 +1,434 @@
+@media screen and (max-width:960px){
+  
+   
+    #section1{
+        display: flex;
+        padding-left: 0px;
+        background-color: rgba(255, 192, 203, 0.61) ; 
+        width: 100%;
+        font-size: 14px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: auto;
+        justify-content: center;
+    }
+    #button1{
+        background-color: palevioletred;
+        border: hidden;
+        font-size: 10px;
+        border-radius: 5px;
+        color: white;
+        padding: 5px;
+        letter-spacing: 1.5px;
+        margin-top: 15px;
+        margin-right: 0px; 
+    }
+    #Cowrywise-logo{
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+    #bars{
+        display: block;
+    }
+    #login{
+        display: none;
+    }
+    #signup{
+        display: none;
+    }
+    header{
+       justify-content: space-between;
+    }
+    nav{
+        display: none;
+    }
+    #mobile-view{
+        display: block;
+        width: 90%;
+    }
+    #section2{
+       display: block;
+    }
+    #testimonial-image{
+        width: 100%;  
+    }
+    #videos{
+        width: 600px;
+        height: 1000px;
+        position:relative;
+        right: 120px;
+        
+        
+     }
+#vid-box{
+    position: relative;
+    width: 200%;
+    height: 500px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-left: -30px;
+    margin-top: -30px;
+    overflow: hidden;
+}
+#fhro{
+    width: 80%;
+    height: 700px;
+    background-color: rgba(250, 235, 215, 0.712);
+    position: relative;
+    }
+    #vid-comment{
+        width: 80%;
+        height: 150px;
+        background-color: rgb(255, 255, 255);
+        position:relative;
+        bottom: 400px;
+        margin-left: 20px;
+        padding: 20px;
+        
+    }
+    #oyo{
+        margin-left: 20px;
+    }
+   
+    #review-box{
+        width: 20%;
+        height: 70px;
+        overflow: hidden;
+        position: relative;
+        right: 0px;
+        top: opx;
+        top: -100px;
+        margin-right: 10px;
+    }
+    #sec2-text{
+        display: none;
+    }
+    #section3{
+        display: block;
+        margin-top: -180px;
+    }
+    h1{
+        font-size: 50px;
+        line-height: 50px;
+    
+    }
+    #sec3-text{
+        width: 99%;
+        padding-left: 10px;
+        margin-right: 10px;
+        letter-spacing: -1px;
+    }
+    .sec3-para{
+        width: 90%;
+        margin-top: -20px;
+    }
+    #financial{
+        width: 80%;
+        font-size: 17px;
+    }
+    #sec3-img{
+        display: block;
+    }
+    #sub-img{
+        display: none;
+    }
+    #sub-img1{
+        display: none;
+    }
+    #sub-img2{
+        display: none;
+    }
+    #rectangle{
+        display: none;
+    }
+    #svg-1{
+        width: 210%;
+        
+    }
+    #section4{
+        background-color:white;
+        margin-top: 380px;
+        z-index: 5;
+        padding-bottom: 100px;
+        padding-top: 150px;
+        
+      
+    }
+    #sec4-text{
+        width: 90%;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+    #box{
+        max-width: 500px;
+        max-height: 250px;
+        background-color: rgba(188, 202, 171, 0.1);
+        align-items: center;
+        font-size: 40px;
+        padding: 20px;
+        margin-right: 40px;
+        border-radius: 30px;
+        border-bottom-right-radius: 0;
+        color: blue;
+        border: 1px solid;
+        display: flex; 
+    }
+    #section5{
+        display: block;
+        padding: 0;  
+        width: 90%;
+    }
+    .head5{
+        font-size: 40px;
+    }
+    #num-line{
+        font-size: 20px;
+    }
+    #line-text{
+        margin-left: 30px;
+        font-size: 20px;   
+    }
+    #phone{
+        margin-left: 20%;
+    }
+    .head5{
+        width: 95%;
+        margin: auto;
+        padding-left: 20px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+
+    }
+    #tttt{
+        margin: auto;
+        width: 100%;
+        padding-left: 20px;
+    }
+    #cell-phone{
+        width:250px ;
+        margin-right: 0;
+        justify-content: center;  
+    }
+    #kffld{
+        width: 100%;
+    }
+    #signed{
+       
+        align-items: center;
+        margin-left: 35%;
+
+    }
+    #section6{
+        display: block;
+        width: 100%;
+        margin-top: 100px;
+    }
+    #head6{
+        font-size: 35px;
+        width: 100%;
+    }
+    .para1-sec6{
+        font-size: 15px;
+        width: 95%;
+        margin-top: -50px;
+        
+    }
+    .para2-sec6{
+        font-size: 16px;
+        opacity: 0.85;
+        padding-right: 15px;
+    }
+    .yoyk{
+        margin-right: 0px;
+        width: 100%;
+        font-size: 23px;
+        display: flex;
+    }
+    #sub-text{
+        display: block;
+    }
+    #section7{
+        display: block;
+    }
+    #flex-box{
+        display: block;
+        margin-top: 20px;
+    }
+    .rating{
+        width: 75%;
+        height: 400px;
+        margin-top: 20px;
+        background-color: rgb(255, 255, 255);
+        margin-right: 60px;
+        filter: drop-shadow(1px 1px 7px rgba(211, 208, 208, 0.861));
+        border-radius: 20px;
+        padding: 40px;
+        color: rgb(9, 9, 71);
+    }
+    #ooooo{
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-right: 0px;
+    }
+    #qqqqq{
+        position: relative;
+        top: 50px;
+        right: 245px;
+    }
+    h6{
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    #qwqw{
+        width: 87%;
+        height: 350px;
+        border-radius: 15px;
+        background-color: blue;
+        margin-top: 100px;
+        box-shadow: 0 20px 50px rgba(27, 10, 218, 0.546);
+        padding: 20px;
+    }
+    #dsow{
+        font-size: 30px;
+        width: 100%;
+        margin-top: 15px;
+    }
+    #input-box{
+        width: 90%;
+        height: 50px;
+        background-color: rgb(106, 131, 255);
+        filter: drop-shadow(2px 2px 5px rgba(50, 50, 251, 0.861) );
+        margin-top: 10px;
+        margin-left: 0px;
+        border-radius: 10px;
+        padding: 0px;
+        display: block;
+        padding: 10px;
+    }
+    #soepw{
+        width: 100%;
+        color: white;
+       margin-top: -25px;  
+    }
+    #input-btn{
+        margin-left: -10px;
+        letter-spacing: 1px;
+        width: 70%;
+        font-size: 20px;
+        margin-top: 40px;
+        height: 52px;
+        border-radius: 10px;
+        border-color: white;
+        
+    }
+    .input-text{
+        color: white;
+        opacity: 0.9;
+        text-align: left;
+    }
+    #qpzie{
+        display: block;
+    }
+    footer{
+        display: block;
+    }
+    #list{
+        display: block;
+    }
+    #l1{
+        width: 100%;
+    }
+    .ul{
+        margin-right: 0px;
+        width: 90%;
+        margin-left: -20px;
+        
+    }
+    .listing-head{
+        font-size: 20px;
+        color: black;
+    }
+    .listing{
+        display: block;
+        font-size: 15px;
+        letter-spacing: 0.5px;
+        padding-top: 30px;
+        padding-top: 30px;
+        color: black;
+    }
+    #ehdo{
+        width: 46%;
+    }
+    #foot-para{
+        width: 96%;
+        font-size: 17px;
+        margin-left: 20px;
+        padding: 0;
+    }
+    #text{
+        display: none;
+    }
+    #yoswlm{
+        display: block;
+        counter-reset: black;
+    }
+    #animated{
+        overflow: hidden;
+        
+        width: 100%;
+        height: 130px;
+        align-items: center;
+        
+    }
+    @keyframes ani-move {
+        25%{
+            transform: translateY(-130px);
+        } 
+        50%{
+            transform: translateY(-250px);
+        }  
+        100%{
+            transform: translateY(-380px);
+        } 
+    }
+    #yoswlm{
+        animation: ani-move 10s infinite  linear;
+    }
+    .yiwwi{
+        font-size: 40px;
+        width: 100%;
+        color: gray;
+        margin-top: -10px;
+       
+    }
+    .pamw{
+        opacity: 1;
+        color: black;
+        margin-top: -10px;
+    }
+    .last-para{
+        font-size: 15px;
+        padding-right: 0px;
+        margin-right:0 ;
+        width: 100%;
+        margin-left: 0;
+        
+        margin: auto;
+        padding: auto;
+
+    }
+    #subtext{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    #license{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 20px;
+        width: 60%;
+    }
+    #menus{
+        display: none;
+    }
+
+}

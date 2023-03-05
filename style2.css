@@ -1,14 +1,13 @@
 @media screen and (max-width:960px){
-  
-   
+
     #section1{
         display: flex;
         padding-left: 0px;
         background-color: rgba(255, 192, 203, 0.61) ; 
         width: 100%;
-        font-size: 14px;
-        padding-left: 10px;
-        padding-right: 10px;
+        font-size: 13px;
+        padding-left: 0px;
+        padding-right: 0px;
         margin: auto;
         justify-content: center;
     }
@@ -20,7 +19,7 @@
         color: white;
         padding: 5px;
         letter-spacing: 1.5px;
-        margin-top: 15px;
+        margin-top: 13px;
         margin-right: 0px; 
     }
     #Cowrywise-logo{
@@ -39,6 +38,7 @@
     }
     header{
        justify-content: space-between;
+       width: 100%;
     }
     nav{
         display: none;
@@ -51,7 +51,7 @@
        display: block;
     }
     #testimonial-image{
-        width: 100%;  
+        width: 95%;  
     }
     #videos{
         width: 600px;
@@ -106,6 +106,7 @@
     #section3{
         display: block;
         margin-top: -180px;
+        width: 95%;
     }
     h1{
         font-size: 50px;
@@ -113,8 +114,8 @@
     
     }
     #sec3-text{
-        width: 99%;
-        padding-left: 10px;
+        width: 100%;
+        
         margin-right: 10px;
         letter-spacing: -1px;
     }
@@ -189,7 +190,7 @@
         font-size: 20px;   
     }
     #phone{
-        margin-left: 20%;
+        margin-left: 17%;
     }
     .head5{
         width: 95%;
@@ -215,28 +216,37 @@
     #signed{
        
         align-items: center;
-        margin-left: 35%;
+        margin-left: 30%;
 
     }
     #section6{
         display: block;
         width: 100%;
         margin-top: 100px;
+        padding-left: 0px;
+        
+    }
+    #done{
+        margin-left: 20px;
     }
     #head6{
-        font-size: 35px;
-        width: 100%;
+        font-size: 32px;
+        width: 94%;
+        
+    }
+    #sub-text{
+        margin-left: 20px;
     }
     .para1-sec6{
         font-size: 15px;
-        width: 95%;
-        margin-top: -50px;
-        
+        width: 90%;
+        margin-top: -30px;     
     }
     .para2-sec6{
         font-size: 16px;
         opacity: 0.85;
-        padding-right: 15px;
+        padding-right: 0px;
+        width: 90%;
     }
     .yoyk{
         margin-right: 0px;
@@ -246,6 +256,7 @@
     }
     #sub-text{
         display: block;
+        width: 95%;
     }
     #section7{
         display: block;
@@ -253,17 +264,20 @@
     #flex-box{
         display: block;
         margin-top: 20px;
+        width: 100%;
     }
     .rating{
-        width: 75%;
+        max-width: 71%;
         height: 400px;
         margin-top: 20px;
         background-color: rgb(255, 255, 255);
-        margin-right: 60px;
         filter: drop-shadow(1px 1px 7px rgba(211, 208, 208, 0.861));
         border-radius: 20px;
         padding: 40px;
         color: rgb(9, 9, 71);
+        margin: auto;
+        margin-left: 0px;
+        margin-bottom: 20px;
     }
     #ooooo{
         margin-left: 20px;
@@ -280,13 +294,14 @@
         font-size: 25px;
     }
     #qwqw{
-        width: 87%;
+        width: 83%;
         height: 350px;
         border-radius: 15px;
         background-color: blue;
         margin-top: 100px;
         box-shadow: 0 20px 50px rgba(27, 10, 218, 0.546);
         padding: 20px;
+        overflow: hidden;
     }
     #dsow{
         font-size: 30px;
@@ -331,12 +346,14 @@
     }
     footer{
         display: block;
+        width: 98%;
     }
     #list{
         display: block;
     }
     #l1{
         width: 100%;
+        
     }
     .ul{
         margin-right: 0px;
@@ -345,12 +362,12 @@
         
     }
     .listing-head{
-        font-size: 20px;
+        font-size: 18px;
         color: black;
     }
     .listing{
         display: block;
-        font-size: 15px;
+        font-size: 14px;
         letter-spacing: 0.5px;
         padding-top: 30px;
         padding-top: 30px;
@@ -407,15 +424,17 @@
         margin-top: -10px;
     }
     .last-para{
-        font-size: 15px;
+        font-size: 10px;
         padding-right: 0px;
         margin-right:0 ;
         width: 100%;
-        margin-left: 0;
-        
+        margin-left: 0;  
         margin: auto;
-        padding: auto;
-
+     padding: auto;
+    }
+    .para-span{
+        font-size: 10px;
+        color: blue;
     }
     #subtext{
         display: flex;
@@ -427,8 +446,11 @@
         margin-left: 20px;
         width: 60%;
     }
-    #menus{
-        display: none;
+    .menu-icon{
+        padding: 28px 20px;
+        position: relative;
+        cursor: pointer;
+        z-index: 6;
+        display: block;
     }
-
 }
